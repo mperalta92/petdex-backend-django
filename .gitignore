@@ -46,6 +46,3 @@ MANIFEST
 
 # vscode stuff
 .vscode/
-
-# static files
-staticfiles/
