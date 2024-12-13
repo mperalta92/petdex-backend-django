@@ -1,0 +1,173 @@
+id,name,temperament,weight,height,life_span,bred_for,image
+1,Affenpinscher,"Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",3 - 6,23 - 29,10 - 12,"Small rodent hunting, lapdog",https://cdn2.thedogapi.com/images/BJa4kxc4X.jpg
+2,Afghan Hound,"Aloof, Clownish, Dignified, Independent, Happy",23 - 27,64 - 69,10 - 13,Coursing and hunting,https://cdn2.thedogapi.com/images/hMyT4CDXR.jpg
+3,African Hunting Dog,"Wild, Hardworking, Dutiful",20 - 30,76,11,A wild pack animal,https://cdn2.thedogapi.com/images/rkiByec47.jpg
+4,Airedale Terrier,"Outgoing, Friendly, Alert, Confident, Intelligent, Courageous",18 - 29,53 - 58,10 - 13,"Badger, otter hunting",https://cdn2.thedogapi.com/images/1-7cgoZSh.jpg
+5,Akbash Dog,"Loyal, Independent, Intelligent, Brave",41 - 54,71 - 86,10 - 12,Sheep guarding,https://cdn2.thedogapi.com/images/26pHT3Qk7.jpg
+6,Akita,"Docile, Alert, Responsive, Dignified, Composed, Friendly, Receptive, Faithful, Courageous",29 - 52,61 - 71,10 - 14,Hunting bears,https://cdn2.thedogapi.com/images/BFRYBufpm.jpg
+7,Alapaha Blue Blood Bulldog,"Loving, Protective, Trainable, Dutiful, Responsible",25 - 41,46 - 61,12 - 13,Guarding,https://cdn2.thedogapi.com/images/33mJ-V3RX.jpg
+8,Alaskan Husky,"Friendly, Energetic, Loyal, Gentle, Confident",17 - 23,58 - 66,10 - 13,Sled pulling,https://cdn2.thedogapi.com/images/-HgpNnGXl.jpg
+9,Alaskan Malamute,"Friendly, Affectionate, Devoted, Loyal, Dignified, Playful",29 - 45,58 - 64,12 - 15,"Hauling heavy freight, Sled pulling",https://cdn2.thedogapi.com/images/dW5UucTIW.jpg
+10,American Bulldog,"Friendly, Assertive, Energetic, Loyal, Gentle, Confident, Dominant",27 - 54,56 - 69,10 - 12,,https://cdn2.thedogapi.com/images/pk1AAdloG.jpg
+11,American Bully,"Strong Willed, Stubborn, Friendly, Clownish, Affectionate, Loyal, Obedient, Intelligent, Courageous",14 - 68,36 - 43,8 – 15,Family companion dog,https://cdn2.thedogapi.com/images/sqQJDtbpY.jpg
+12,American Eskimo Dog,"Friendly, Alert, Reserved, Intelligent, Protective",9 - 18,38 - 48,12 - 15,Circus performer,https://cdn2.thedogapi.com/images/Bymjyec4m.jpg
+13,American Eskimo Dog (Miniature),"Friendly, Alert, Reserved, Intelligent, Protective",3 - 5,23 - 30,13 – 15,Companionship,https://cdn2.thedogapi.com/images/_gn8GLrE6.jpg
+14,American Foxhound,"Kind, Sweet-Tempered, Loyal, Independent, Intelligent, Loving",29 - 34,53 - 71,8 - 15,"Fox hunting, scent hound",https://cdn2.thedogapi.com/images/S14n1x9NQ.jpg
+15,American Pit Bull Terrier,"Strong Willed, Stubborn, Friendly, Clownish, Affectionate, Loyal, Obedient, Intelligent, Courageous",14 - 27,43 - 53,10 - 15,Fighting,https://cdn2.thedogapi.com/images/HkC31gcNm.png
+16,American Staffordshire Terrier,"Tenacious, Friendly, Devoted, Loyal, Attentive, Courageous",23 - 27,43 - 48,12 - 15,,https://cdn2.thedogapi.com/images/rJIakgc4m.jpg
+17,American Water Spaniel,"Friendly, Energetic, Obedient, Intelligent, Protective, Trainable",11 - 20,38 - 46,10 - 12,Bird flushing and retrieving,https://cdn2.thedogapi.com/images/SkmRJl9VQ.jpg
+18,Anatolian Shepherd Dog,"Steady, Bold, Independent, Confident, Intelligent, Proud",36 - 68,69 - 74,11 - 13,Livestock herding,https://cdn2.thedogapi.com/images/BJT0Jx5Nm.jpg
+19,Appenzeller Sennenhund,"Reliable, Fearless, Energetic, Lively, Self-assured",22 - 25,51 - 56,12 – 14,"Herding livestock, pulling carts, and guarding the farm",https://cdn2.thedogapi.com/images/HkNkxlqEX.jpg
+20,Australian Cattle Dog,"Cautious, Energetic, Loyal, Obedient, Protective, Brave",20 - 28,43 - 51,12 - 14,"Cattle herding, herding trials",https://cdn2.thedogapi.com/images/IBkYVm4v1.jpg
+21,Australian Kelpie,"Friendly, Energetic, Alert, Loyal, Intelligent, Eager",14 - 21,43 - 51,10 - 13,"Farm dog, Cattle herding",https://cdn2.thedogapi.com/images/Hyq1ge9VQ.jpg
+22,Australian Shepherd,"Good-natured, Affectionate, Intelligent, Active, Protective",16 - 29,46 - 58,12 - 16,Sheep herding,https://cdn2.thedogapi.com/images/B1-llgq4m.jpg
+23,Australian Terrier,"Spirited, Alert, Loyal, Companionable, Even Tempered, Courageous",6 - 7,25 - 28,15,"Cattle herdering, hunting snakes and rodents",https://cdn2.thedogapi.com/images/r1Ylge5Vm.jpg
+24,Azawakh,"Aloof, Affectionate, Attentive, Rugged, Fierce, Refined",15 - 25,58 - 74,10 - 13,"Livestock guardian, hunting",https://cdn2.thedogapi.com/images/SkvZgx94m.jpg
+25,Barbet,"Obedient, Companionable, Intelligent, Joyful",18 - 29,51 - 66,13 – 15,Hunting water game,https://cdn2.thedogapi.com/images/HyWGexcVQ.jpg
+26,Basenji,"Affectionate, Energetic, Alert, Curious, Playful, Intelligent",10 - 11,41 - 43,10 - 12,Hunting,https://cdn2.thedogapi.com/images/H1dGlxqNQ.jpg
+27,Basset Bleu de Gascogne,"Affectionate, Lively, Agile, Curious, Happy, Active",16 - 18,33 - 38,10 - 14,Hunting on foot.,https://cdn2.thedogapi.com/images/BkMQll94X.jpg
+28,Basset Hound,"Tenacious, Friendly, Affectionate, Devoted, Sweet-Tempered, Gentle",23 - 29,36,12 - 15,Hunting by scent,https://cdn2.thedogapi.com/images/Sy57xx9EX.jpg
+29,Beagle,"Amiable, Even Tempered, Excitable, Determined, Gentle, Intelligent",9 - 16,33 - 38,13 - 16,"Rabbit, hare hunting",https://cdn2.thedogapi.com/images/Syd4xxqEm.jpg
+30,Bearded Collie,"Self-confidence, Hardy, Lively, Alert, Intelligent, Active",20 - 25,51 - 56,12 - 14,Sheep herding,https://cdn2.thedogapi.com/images/A09F4c1qP.jpg
+31,Beauceron,"Fearless, Friendly, Intelligent, Protective, Calm",36 - 50,61 - 70,10 - 12,"Boar herding, hunting, guarding",https://cdn2.thedogapi.com/images/HJQ8ge5V7.jpg
+32,Bedlington Terrier,"Affectionate, Spirited, Intelligent, Good-tempered",8 - 10,38 - 41,14 - 16,"Killing rat, badger, other vermin",https://cdn2.thedogapi.com/images/ByK8gx947.jpg
+33,Belgian Malinois,"Watchful, Alert, Stubborn, Friendly, Confident, Hard-working, Active, Protective",18 - 36,56 - 66,12 - 14,Stock herding,https://cdn2.thedogapi.com/images/r1f_ll5VX.jpg
+34,Belgian Tervuren,"Energetic, Alert, Loyal, Intelligent, Attentive, Protective",18 - 29,56 - 66,10 - 12,"Guarding, Drafting, Police work.",https://cdn2.thedogapi.com/images/B1KdxlcNX.jpg
+35,Bernese Mountain Dog,"Affectionate, Loyal, Intelligent, Faithful",29 - 54,58 - 70,7 - 10,Draft work,https://cdn2.thedogapi.com/images/S1fFlx5Em.jpg
+36,Bichon Frise,"Feisty, Affectionate, Cheerful, Playful, Gentle, Sensitive",5 - 8,24 - 29,15,Companion,https://cdn2.thedogapi.com/images/HkuYlxqEQ.jpg
+37,Black and Tan Coonhound,"Easygoing, Gentle, Adaptable, Trusting, Even Tempered, Lovable",29 - 45,58 - 69,10 - 12,"Hunting raccoons, night hunting",https://cdn2.thedogapi.com/images/HJAFgxcNQ.jpg
+38,Bloodhound,"Stubborn, Affectionate, Gentle, Even Tempered",36 - 50,58 - 69,8 - 10,Trailing,https://cdn2.thedogapi.com/images/Skdcgx9VX.jpg
+39,Bluetick Coonhound,"Friendly, Intelligent, Active",20 - 36,53 - 69,12 - 14,Hunting with a superior sense of smell.,https://cdn2.thedogapi.com/images/rJxieg9VQ.jpg
+40,Boerboel,"Obedient, Confident, Intelligent, Dominant, Territorial",50 - 91,56 - 69,10 - 12,"Guarding the homestead, farm work.",https://cdn2.thedogapi.com/images/HyOjge5Vm.jpg
+41,Border Collie,"Tenacious, Keen, Energetic, Responsive, Alert, Intelligent",14 - 20,46 - 56,12 - 16,Sheep herder,https://cdn2.thedogapi.com/images/sGQvQUpsp.jpg
+42,Border Terrier,"Fearless, Affectionate, Alert, Obedient, Intelligent, Even Tempered",5 - 7,28 - 41,12 - 14,"Fox bolting, ratting",https://cdn2.thedogapi.com/images/HJOpge9Em.jpg
+43,Boston Terrier,"Friendly, Lively, Intelligent",5 - 11,41 - 43,11 - 13,"Ratting, Companionship",https://cdn2.thedogapi.com/images/rkZRggqVX.jpg
+44,Bouvier des Flandres,"Protective, Loyal, Gentle, Intelligent, Familial, Rational",32 - 50,60 - 70,10 - 15,Cattle herding,https://cdn2.thedogapi.com/images/Byd0xl5VX.jpg
+45,Boxer,"Devoted, Fearless, Friendly, Cheerful, Energetic, Loyal, Playful, Confident, Intelligent, Bright, Brave, Calm",23 - 32,55 - 64,8 - 10,"Bull-baiting, guardian",https://cdn2.thedogapi.com/images/ry1kWe5VQ.jpg
+46,Boykin Spaniel,"Friendly, Energetic, Companionable, Intelligent, Eager, Trainable",11 - 18,36 - 46,10 - 14,Turkey retrieving,https://cdn2.thedogapi.com/images/ryHJZlcNX.jpg
+47,Bracco Italiano,"Stubborn, Affectionate, Loyal, Playful, Companionable, Trainable",25 - 40,55 - 67,10 - 12,Versatile gun dog,https://cdn2.thedogapi.com/images/S13yZg5VQ.jpg
+48,Briard,"Fearless, Loyal, Obedient, Intelligent, Faithful, Protective",32 - 41,56 - 69,10 - 12,"Herding, guarding sheep",https://cdn2.thedogapi.com/images/rkVlblcEQ.jpg
+49,Brittany,"Agile, Adaptable, Quick, Intelligent, Attentive, Happy",14 - 20,44 - 52,12 - 14,"Pointing, retrieving",https://cdn2.thedogapi.com/images/HJWZZxc4X.jpg
+50,Bull Terrier,"Trainable, Protective, Sweet-Tempered, Keen, Active",23 - 32,53 - 56,10 - 12,"Bull baiting, Fighting",https://cdn2.thedogapi.com/images/VSraIEQGd.jpg
+51,Bull Terrier (Miniature),"Trainable, Protective, Sweet-Tempered, Keen, Active, Territorial",11 - 15,25 - 36,11 – 14,An elegant man's fashion statement,https://cdn2.thedogapi.com/images/BkKZWlcVX.jpg
+52,Bullmastiff,"Docile, Reliable, Devoted, Alert, Loyal, Reserved, Loving, Protective, Powerful, Calm, Courageous",45 - 59,61 - 69,8 - 12,Estate guardian,https://cdn2.thedogapi.com/images/r1ifZl5E7.jpg
+53,Cairn Terrier,"Hardy, Fearless, Assertive, Gay, Intelligent, Active",6 - 6,23 - 25,14 - 15,"Bolting of otter, foxes, other vermin",https://cdn2.thedogapi.com/images/Sk7Qbg9E7.jpg
+54,Cane Corso,"Trainable, Reserved, Stable, Quiet, Even Tempered, Calm",40 - 54,60 - 70,10 - 11,"Companion, guard dog, and hunter",https://cdn2.thedogapi.com/images/r15m-lc4m.jpg
+55,Cardigan Welsh Corgi,"Affectionate, Devoted, Alert, Companionable, Intelligent, Active",11 - 17,27 - 32,12 - 14,Cattle droving,https://cdn2.thedogapi.com/images/SyXN-e9NX.jpg
+56,Catahoula Leopard Dog,"Energetic, Inquisitive, Independent, Gentle, Intelligent, Loving",23 - 43,51 - 66,10 - 12,Driving livestock,https://cdn2.thedogapi.com/images/BJcNbec4X.jpg
+57,Caucasian Shepherd (Ovcharka),"Alert, Quick, Dominant, Powerful, Calm, Strong",36 - 45,61 - 85,10 - 12,"Guard dogs, defending sheep from predators, mainly wolves, jackals and bears",https://cdn2.thedogapi.com/images/r1rrWe5Em.jpg
+58,Cavalier King Charles Spaniel,"Fearless, Affectionate, Sociable, Patient, Playful, Adaptable",6 - 8,30 - 33,10 - 14,"Flushing small birds, companion",https://cdn2.thedogapi.com/images/HJRBbe94Q.jpg
+59,Chesapeake Bay Retriever,"Affectionate, Intelligent, Quiet, Dominant, Happy, Protective",25 - 36,53 - 66,10 - 13,Water Retriever,https://cdn2.thedogapi.com/images/9BXwUeCc2.jpg
+60,Chinese Crested,"Affectionate, Sweet-Tempered, Lively, Alert, Playful, Happy",5 - 6,28 - 33,10 - 14,"Ratting, lapdog, curio",https://cdn2.thedogapi.com/images/B1pDZx9Nm.jpg
+61,Chinese Shar-Pei,"Suspicious, Affectionate, Devoted, Reserved, Independent, Loving",20 - 27,46 - 51,10,Fighting,https://cdn2.thedogapi.com/images/B1ruWl94Q.jpg
+62,Chinook,"Friendly, Alert, Dignified, Intelligent, Calm",23 - 41,56 - 66,12 - 15,Sled pulling,https://cdn2.thedogapi.com/images/Sypubg54Q.jpg
+63,Chow Chow,"Aloof, Loyal, Independent, Quiet",18 - 32,43 - 51,12 - 15,"Guardian, cart pulling, hunting",https://cdn2.thedogapi.com/images/ry8KWgqEQ.jpg
+64,Clumber Spaniel,"Affectionate, Loyal, Dignified, Gentle, Calm, Great-hearted",25 - 39,43 - 51,10 - 12,"Bird flushing, retrieving",https://cdn2.thedogapi.com/images/rkeqWgq4Q.jpg
+65,Cocker Spaniel,"Trainable, Friendly, Affectionate, Playful, Quiet, Faithful",9 - 14,36 - 38,12 - 15,"Bird flushing, retrieving",https://cdn2.thedogapi.com/images/1lFmrzECl.jpg
+66,Cocker Spaniel (American),"Outgoing, Sociable, Trusting, Joyful, Even Tempered, Merry",9 - 14,36 - 38,12 - 15,Hunting the American woodcock,https://cdn2.thedogapi.com/images/HkRcZe547.jpg
+67,Coton de Tulear,"Affectionate, Lively, Playful, Intelligent, Trainable, Vocal",4 - 7,23 - 28,13 - 16,"Accompanying ladies on long sea voyages, ratters onboard ship.",https://cdn2.thedogapi.com/images/SyviZlqNm.jpg
+68,Dalmatian,"Outgoing, Friendly, Energetic, Playful, Sensitive, Intelligent, Active",23 - 25,48 - 58,10 - 13,Carriage dog - trot alongside carriages to protect the occupants from banditry or other interference,https://cdn2.thedogapi.com/images/SkJ3blcN7.jpg
+69,Doberman Pinscher,"Fearless, Energetic, Alert, Loyal, Obedient, Confident, Intelligent",30 - 40,61 - 71,10,Guardian,https://cdn2.thedogapi.com/images/HyL3bl94Q.jpg
+70,Dogo Argentino,"Friendly, Affectionate, Cheerful, Loyal, Tolerant, Protective",36 - 45,60 - 69,10 - 12,Big-game hunting,https://cdn2.thedogapi.com/images/S1nhWx94Q.jpg
+71,Dutch Shepherd,"Reliable, Affectionate, Alert, Loyal, Obedient, Trainable",23 - 32,56 - 62,15,"Farms, watchdog, guard duty",https://cdn2.thedogapi.com/images/BkE6Wg5E7.jpg
+72,English Setter,"Strong Willed, Mischievous, Affectionate, Energetic, Playful, Companionable, Gentle, Hard-working, Intelligent, Eager, People-Oriented",20 - 36,61 - 64,12,"Bird setting, retrieving",https://cdn2.thedogapi.com/images/By4A-eqVX.jpg
+73,English Shepherd,"Kind, Energetic, Independent, Adaptable, Intelligent, Bossy",20 - 30,46 - 58,10 - 13,"Herding & guarding livestock, farm watch dog",https://cdn2.thedogapi.com/images/H1QyMe5EQ.jpg
+74,English Springer Spaniel,"Affectionate, Cheerful, Alert, Intelligent, Attentive, Active",16 - 23,48 - 51,12 - 14,"Bird flushing, retrieving",https://cdn2.thedogapi.com/images/Hk0Jfe5VQ.jpg
+75,English Toy Spaniel,"Affectionate, Reserved, Playful, Gentle, Happy, Loving",4 - 6,25,10 - 12,Companion of kings,https://cdn2.thedogapi.com/images/SkIgzxqNQ.jpg
+76,English Toy Terrier,"Stubborn, Alert, Companionable, Intelligent, Cunning, Trainable",3 - 4,25 - 30,12 - 13,Rat-baiting,https://cdn2.thedogapi.com/images/SJ6eMxqEQ.jpg
+77,Eurasier,"Alert, Reserved, Intelligent, Even Tempered, Watchful, Calm",18 - 32,52 - 60,12 - 14,Companionship,https://cdn2.thedogapi.com/images/S1VWGx9Nm.jpg
+78,Field Spaniel,"Docile, Cautious, Sociable, Sensitive, Adaptable, Familial",16 - 23,43 - 46,11 - 15,"Bird flushing, retrieving",https://cdn2.thedogapi.com/images/SkJfGecE7.jpg
+79,Finnish Lapphund,"Friendly, Keen, Faithful, Calm, Courageous",15 - 24,41 - 53,12 - 15,Herding reindeer,https://cdn2.thedogapi.com/images/S1KMGg5Vm.jpg
+80,Finnish Spitz,"Playful, Loyal, Independent, Intelligent, Happy, Vocal",10 - 13,39 - 51,12 - 15,"Hunting birds, small mammals",https://cdn2.thedogapi.com/images/3PjHlQbkV.jpg
+81,French Bulldog,"Playful, Affectionate, Keen, Sociable, Lively, Alert, Easygoing, Patient, Athletic, Bright",13,28 - 30,9 - 11,Lapdog,https://cdn2.thedogapi.com/images/HyWNfxc47.jpg
+82,German Pinscher,"Spirited, Lively, Intelligent, Loving, Even Tempered, Familial",11 - 20,43 - 51,12 - 14,"Watchdog, Hunting vermin on the farm.",https://cdn2.thedogapi.com/images/B1u4zgqE7.jpg
+83,German Shepherd Dog,"Alert, Loyal, Obedient, Curious, Confident, Intelligent, Watchful, Courageous",23 - 41,56 - 66,10 - 13,"Herding, Guard dog",https://cdn2.thedogapi.com/images/SJyBfg5NX.jpg
+84,German Shorthaired Pointer,"Boisterous, Bold, Affectionate, Intelligent, Cooperative, Trainable",20 - 32,53 - 64,12 - 14,General hunting,https://cdn2.thedogapi.com/images/SJqBMg5Nm.jpg
+85,Giant Schnauzer,"Strong Willed, Kind, Loyal, Intelligent, Dominant, Powerful",29 - 41,60 - 70,10 - 12,"Herding, guarding",https://cdn2.thedogapi.com/images/H1NIzlcV7.jpg
+86,Glen of Imaal Terrier,"Spirited, Agile, Loyal, Gentle, Active, Courageous",15 - 18,32 - 36,12 - 15,"Rid the home and farm of vermin, and hunt badger and fox",https://cdn2.thedogapi.com/images/H1oLMe94m.jpg
+87,Golden Retriever,"Intelligent, Kind, Reliable, Friendly, Trustworthy, Confident",25 - 34,55 - 61,10 - 12,Retrieving,https://cdn2.thedogapi.com/images/HJ7Pzg5EQ.jpg
+88,Gordon Setter,"Fearless, Alert, Loyal, Confident, Gay, Eager",20 - 36,58 - 69,10 - 12,Find and point gamebirds,https://cdn2.thedogapi.com/images/SJ5vzx5NX.jpg
+89,Great Dane,"Friendly, Devoted, Reserved, Gentle, Confident, Loving",50 - 86,71 - 81,7 - 10,"Hunting & holding boars, Guardian",https://cdn2.thedogapi.com/images/B1Edfl9NX.jpg
+90,Great Pyrenees,"Strong Willed, Fearless, Affectionate, Patient, Gentle, Confident",39 - 52,64 - 81,10 - 12,Sheep guardian,https://cdn2.thedogapi.com/images/B12uzg9V7.png
+91,Greyhound,"Affectionate, Athletic, Gentle, Intelligent, Quiet, Even Tempered",23 - 32,69 - 76,10 - 13,Coursing hares,https://cdn2.thedogapi.com/images/ryNYMx94X.jpg
+92,Griffon Bruxellois,"Self-important, Inquisitive, Alert, Companionable, Sensitive, Watchful",5,23 - 28,10 – 15,Hunt and kill vermin in stables,https://cdn2.thedogapi.com/images/ryoYGec4Q.jpg
+93,Harrier,"Outgoing, Friendly, Cheerful, Sweet-Tempered, Tolerant, Active",18 - 27,46 - 56,12 - 15,Hunting hares by trailing them,https://cdn2.thedogapi.com/images/B1IcfgqE7.jpg
+94,Havanese,"Affectionate, Responsive, Playful, Companionable, Gentle, Intelligent",3 - 6,22 - 29,14 - 15,Companionship,https://cdn2.thedogapi.com/images/rkXiGl9V7.jpg
+95,Irish Setter,"Affectionate, Energetic, Lively, Independent, Playful, Companionable",16 - 32,61 - 69,10 - 11,"Bird setting, retrieving",https://cdn2.thedogapi.com/images/S1osGeqVm.jpg
+96,Irish Terrier,"Respectful, Lively, Intelligent, Dominant, Protective, Trainable",11 - 12,46,12 - 16,,https://cdn2.thedogapi.com/images/By-hGecVX.jpg
+97,Irish Wolfhound,"Sweet-Tempered, Loyal, Dignified, Patient, Thoughtful, Generous",48 - 82,76 - 89,6 - 8,"Coursing wolves, elk",https://cdn2.thedogapi.com/images/Hyd2zgcEX.jpg
+98,Italian Greyhound,"Mischievous, Affectionate, Agile, Athletic, Companionable, Intelligent",3 - 7,33 - 38,12 - 15,Lapdog,https://cdn2.thedogapi.com/images/SJAnzg9NX.jpg
+99,Japanese Chin,"Alert, Loyal, Independent, Intelligent, Loving, Cat-like",2 - 4,20 - 28,12 - 14,Lapdog,https://cdn2.thedogapi.com/images/r1H6feqEm.jpg
+100,Japanese Spitz,"Affectionate, Obedient, Playful, Companionable, Intelligent, Proud",7 - 9,30 - 38,10 – 16,Companion,https://cdn2.thedogapi.com/images/HksaMxqNX.jpg
+101,Keeshond,"Agile, Obedient, Playful, Quick, Sturdy, Bright",16 - 20,43 - 46,12 - 15,Barge watchdog,https://cdn2.thedogapi.com/images/S1GAGg9Vm.jpg
+102,Komondor,"Steady, Fearless, Affectionate, Independent, Gentle, Calm",36 - 45,65 - 70,10 - 12,Sheep guardian,https://cdn2.thedogapi.com/images/Bko0fl547.jpg
+103,Kooikerhondje,"Benevolent, Agile, Alert, Intelligent, Active, Territorial",9 - 14,36 - 41,12 - 15,"Luring ducks into traps - ""tolling""",https://cdn2.thedogapi.com/images/kOMy84GQE.jpg
+104,Kuvasz,"Clownish, Loyal, Patient, Independent, Intelligent, Protective",32 - 52,66 - 76,8 - 10,"Guardian, hunting large game",https://cdn2.thedogapi.com/images/BykZ7ecVX.jpg
+105,Labrador Retriever,"Kind, Outgoing, Agile, Gentle, Intelligent, Trusting, Even Tempered",25 - 36,55 - 62,10 - 13,Water retrieving,https://cdn2.thedogapi.com/images/B1uW7l5VX.jpg
+106,Lagotto Romagnolo,"Keen, Loyal, Companionable, Loving, Active, Trainable",11 - 16,41 - 48,14 - 16,Water retrieval dog in the marshes of Romagna,https://cdn2.thedogapi.com/images/ryzzmgqE7.jpg
+107,Lancashire Heeler,"Clever, Friendly, Alert, Intelligent",3 - 6,25 - 30,12 – 15,"Cattle herding, Ratting, Driving cattle to market.",https://cdn2.thedogapi.com/images/S1RGml5Em.jpg
+108,Leonberger,"Obedient, Fearless, Loyal, Companionable, Adaptable, Loving",54 - 77,65 - 80,6 - 8,"Guardian, appearance.",https://cdn2.thedogapi.com/images/ByrmQlqVm.jpg
+109,Lhasa Apso,"Steady, Fearless, Friendly, Devoted, Assertive, Spirited, Energetic, Lively, Alert, Obedient, Playful, Intelligent",5 - 8,25 - 28,12 - 15,"Guarding inside the home, companion",https://cdn2.thedogapi.com/images/SJp7Qe5EX.jpg
+110,Maltese,"Playful, Docile, Fearless, Affectionate, Sweet-Tempered, Lively, Responsive, Easygoing, Gentle, Intelligent, Active",2 - 3,20 - 25,15 - 18,Lapdog,https://cdn2.thedogapi.com/images/B1SV7gqN7.jpg
+111,Miniature American Shepherd,"Energetic, Loyal, Intelligent, Trainable",9 - 18,33 - 46,12 - 15,,https://cdn2.thedogapi.com/images/BkHHQgcN7.jpg
+112,Miniature Pinscher,"Clever, Outgoing, Friendly, Energetic, Responsive, Playful",4 - 5,25 - 32,15,Small vermin hunting,https://cdn2.thedogapi.com/images/Hy3H7g94X.jpg
+113,Miniature Schnauzer,"Fearless, Friendly, Spirited, Alert, Obedient, Intelligent",5 - 9,30 - 36,12 - 14,Ratting,https://cdn2.thedogapi.com/images/SJIUQl9NX.jpg
+114,Newfoundland,"Sweet-Tempered, Gentle, Trainable",45 - 68,66 - 71,8 - 10,"All purpose water dog, fishing aid",https://cdn2.thedogapi.com/images/Sk4DXl54m.jpg
+115,Norfolk Terrier,"Self-confidence, Fearless, Spirited, Companionable, Happy, Lovable",5 - 5,23 - 25,12 - 15,"Ratting, fox bolting",https://cdn2.thedogapi.com/images/B1ADQg94X.jpg
+116,Norwich Terrier,"Hardy, Affectionate, Energetic, Sensitive, Intelligent",5 - 5,25,12 - 15,"Ratting, fox bolting",https://cdn2.thedogapi.com/images/BkgKXlqE7.jpg
+117,Nova Scotia Duck Tolling Retriever,"Outgoing, Alert, Patient, Intelligent, Loving",16 - 23,43 - 53,12 - 14,,https://cdn2.thedogapi.com/images/SyYtQe5V7.jpg
+118,Old English Sheepdog,"Sociable, Bubbly, Playful, Adaptable, Intelligent, Loving",27 - 45,53,10 - 12,"Driving sheep, cattle",https://cdn2.thedogapi.com/images/HkZ57lq4m.jpg
+119,Olde English Bulldogge,"Friendly, Alert, Confident, Loving, Courageous, Strong",NaN,38 - 48,9 – 14,,https://cdn2.thedogapi.com/images/B1d5me547.jpg
+120,Papillon,"Hardy, Friendly, Energetic, Alert, Intelligent, Happy",1 - 5,20 - 28,13 - 17,Lapdog,https://cdn2.thedogapi.com/images/SkJj7e547.jpg
+121,Pekingese,"Opinionated, Good-natured, Stubborn, Affectionate, Aggressive, Intelligent",6,15 - 23,14 - 18,Lapdog,https://cdn2.thedogapi.com/images/ByIiml9Nm.jpg
+122,Pembroke Welsh Corgi,"Tenacious, Outgoing, Friendly, Bold, Playful, Protective",11 - 14,25 - 30,12 - 14,Driving stock to market in northern Wales,https://cdn2.thedogapi.com/images/rJ6iQeqEm.jpg
+123,Perro de Presa Canario,"Strong Willed, Suspicious, Gentle, Dominant, Calm",40 - 50,56 - 65,10 - 12,,https://cdn2.thedogapi.com/images/S1V3Qeq4X.jpg
+124,Pharaoh Hound,"Affectionate, Sociable, Playful, Intelligent, Active, Trainable",18 - 27,53 - 64,12 - 14,Hunting rabbits,https://cdn2.thedogapi.com/images/Byz6mgqEQ.jpg
+125,Plott,"Bold, Alert, Loyal, Intelligent",18 - 27,51 - 64,12 - 14,Hunting big-game like Boar.,https://cdn2.thedogapi.com/images/B1i67l5VQ.jpg
+126,Pomeranian,"Extroverted, Friendly, Sociable, Playful, Intelligent, Active",1 - 3,20 - 30,15,Companion,https://cdn2.thedogapi.com/images/HJd0XecNX.jpg
+127,Poodle (Miniature),,7 - 8,28 - 38,12 – 15,,https://cdn2.thedogapi.com/images/Hkxk4ecVX.jpg
+128,Poodle (Toy),,3 - 4,23 - 28,18,,https://cdn2.thedogapi.com/images/rJFJVxc4m.jpg
+129,Pug,"Docile, Clever, Charming, Stubborn, Sociable, Playful, Quiet, Attentive",6 - 8,25 - 30,12 - 14,Lapdog,https://cdn2.thedogapi.com/images/HyJvcl9N7.jpg
+130,Puli,"Energetic, Agile, Loyal, Obedient, Intelligent, Faithful",11 - 16,41 - 43,12 - 16 Years,Herding,https://cdn2.thedogapi.com/images/ryPgVl5N7.jpg
+131,Pumi,"Lively, Reserved, Intelligent, Active, Protective, Vocal",8 - 15,38 - 47,13 - 15,,https://cdn2.thedogapi.com/images/SyRe4xcN7.jpg
+132,Rat Terrier,"Affectionate, Lively, Inquisitive, Alert, Intelligent, Loving",4 - 11,25 - 33,12 - 18,,https://cdn2.thedogapi.com/images/HkXWNl9E7.jpg
+133,Redbone Coonhound,"Affectionate, Energetic, Independent, Companionable, Familial, Unflappable",20 - 36,53 - 69,10 - 12,"Hunting raccoon, deer, bear, and cougar.",https://cdn2.thedogapi.com/images/HJMzEl5N7.jpg
+134,Rhodesian Ridgeback,"Strong Willed, Mischievous, Loyal, Dignified, Sensitive, Intelligent",34 - 36,61 - 69,10 - 12,"Big game hunting, guarding",https://cdn2.thedogapi.com/images/By9zNgqE7.jpg
+135,Rottweiler,"Steady, Good-natured, Fearless, Devoted, Alert, Obedient, Confident, Self-assured, Calm, Courageous",34 - 50,56 - 69,8 - 10,"Cattle drover, guardian, draft",https://cdn2.thedogapi.com/images/r1xXEgcNX.jpg
+136,Russian Toy,,1 - 3,19 - 27,10 - 12,,https://cdn2.thedogapi.com/images/HkP7Vxc4Q.jpg
+137,Saint Bernard,"Friendly, Lively, Gentle, Watchful, Calm",59 - 82,65 - 70,7 - 10,"Draft, search, rescue",https://cdn2.thedogapi.com/images/_Qf9nfRzL.png
+138,Saluki,"Aloof, Reserved, Intelligent, Quiet",16 - 29,58 - 71,12 - 14,Coursing gazelle and hare,https://cdn2.thedogapi.com/images/fjFIuehNo.jpg
+139,Samoyed,"Stubborn, Friendly, Sociable, Lively, Alert, Playful",23 - 27,48 - 60,12 - 14,"Herding reindeer, guardian, draft",https://cdn2.thedogapi.com/images/S1T8Ee9Nm.jpg
+140,Schipperke,"Fearless, Agile, Curious, Independent, Confident, Faithful",5 - 7,25 - 33,13 - 15,Barge watchdog,https://cdn2.thedogapi.com/images/SyBvVgc47.jpg
+141,Scottish Deerhound,"Docile, Friendly, Dignified, Gentle",32 - 59,71 - 81,8 - 10,Coursing deer,https://cdn2.thedogapi.com/images/SkNjqx9NQ.jpg
+142,Scottish Terrier,"Feisty, Alert, Independent, Playful, Quick, Self-assured",8 - 10,25,11 - 13,Vermin hunting,https://cdn2.thedogapi.com/images/Bklnce5NX.jpg
+143,Shetland Sheepdog,"Affectionate, Lively, Responsive, Alert, Loyal, Reserved, Playful, Gentle, Intelligent, Active, Trainable, Strong",14,33 - 41,12 - 14,Sheep herding,https://cdn2.thedogapi.com/images/rJa29l9E7.jpg
+144,Shiba Inu,"Charming, Fearless, Keen, Alert, Confident, Faithful",8 - 10,34 - 42,12 - 16,"Hunting in the mountains of Japan, Alert Watchdog",https://cdn2.thedogapi.com/images/Zn3IjPX3f.jpg
+145,Shih Tzu,"Clever, Spunky, Outgoing, Friendly, Affectionate, Lively, Alert, Loyal, Independent, Playful, Gentle, Intelligent, Happy, Active, Courageous",4 - 7,20 - 28,10 - 18,Lapdog,https://cdn2.thedogapi.com/images/BkrJjgcV7.jpg
+146,Shiloh Shepherd,"Outgoing, Loyal, Companionable, Gentle, Loving, Trainable",54 - 64,66 - 76,9 – 14,"Swimming, Carrying backpacks, Pulling carts or sleds",https://cdn2.thedogapi.com/images/SJJxjecEX.jpg
+147,Siberian Husky,"Outgoing, Friendly, Alert, Gentle, Intelligent",16 - 27,51 - 60,12,Sled pulling,https://cdn2.thedogapi.com/images/S17ZilqNm.jpg
+148,Silky Terrier,"Friendly, Responsive, Inquisitive, Alert, Quick, Joyful",4 - 5,23 - 25,12 - 15,"Small vermin hunting, companionship",https://cdn2.thedogapi.com/images/ByzGsl5Nm.jpg
+149,Smooth Fox Terrier,"Fearless, Affectionate, Alert, Playful, Intelligent, Active",NaN - 8,39,12 - 14,Fox bolting,https://cdn2.thedogapi.com/images/Syszjx9Em.jpg
+150,Soft Coated Wheaten Terrier,"Affectionate, Spirited, Energetic, Playful, Intelligent, Faithful",14 - 18,41 - 46,12 - 15,"Vermin hunting, guarding, all-around farm helper",https://cdn2.thedogapi.com/images/HJHmix5NQ.jpg
+151,Spanish Water Dog,"Trainable, Diligent, Affectionate, Loyal, Athletic, Intelligent",14 - 23,41 - 51,12 - 15,Herding flocks of sheep and goats from one pasture to another,https://cdn2.thedogapi.com/images/HJf4jl9VX.jpg
+152,Spinone Italiano,"Docile, Friendly, Affectionate, Loyal, Patient, Gentle",28 - 39,57 - 70,10 - 12,,https://cdn2.thedogapi.com/images/rk5Eoe5Nm.jpg
+153,Staffordshire Bull Terrier,"Reliable, Fearless, Bold, Affectionate, Loyal, Intelligent, Courageous",11 - 17,36 - 41,12 - 14,,https://cdn2.thedogapi.com/images/H1zSie9V7.jpg
+154,Standard Schnauzer,"Trainable, Good-natured, Devoted, Lively, Playful, Intelligent",14 - 23,44 - 50,13 - 15,"Ratting, guarding",https://cdn2.thedogapi.com/images/tmzeu6ID_.jpg
+155,Swedish Vallhund,"Fearless, Friendly, Energetic, Alert, Intelligent, Watchful",9 - 14,29 - 34,12 - 14,,https://cdn2.thedogapi.com/images/HJ-Dix94Q.jpg
+156,Thai Ridgeback,"Protective, Loyal, Independent, Intelligent, Loving, Familial",16 - 25,51 - 61,10 - 12,,https://cdn2.thedogapi.com/images/zv89hR-O8.jpg
+157,Tibetan Mastiff,"Strong Willed, Tenacious, Aloof, Stubborn, Intelligent, Protective",39 - 64,61 - 66,10 - 14,,https://cdn2.thedogapi.com/images/SkM9sec47.jpg
+158,Tibetan Spaniel,"Willful, Aloof, Assertive, Independent, Playful, Intelligent, Happy",4 - 7,25,12 - 15,,https://cdn2.thedogapi.com/images/Hyjcol947.jpg
+159,Tibetan Terrier,"Affectionate, Energetic, Amiable, Reserved, Gentle, Sensitive",9 - 11,36 - 43,12 - 15,"Good luck charms, mascots, watchdogs, herding dogs, and companions",https://cdn2.thedogapi.com/images/6f5n_42mB.jpg
+160,Toy Fox Terrier,"Friendly, Spirited, Alert, Loyal, Playful, Intelligent",2 - 4,20 - 28,12 - 15,,https://cdn2.thedogapi.com/images/B17ase9V7.jpg
+161,Treeing Walker Coonhound,"Clever, Affectionate, Confident, Intelligent, Loving, Trainable",20 - 36,51 - 69,10 - 13,,https://cdn2.thedogapi.com/images/SkRpsgc47.jpg
+162,Vizsla,"Affectionate, Energetic, Loyal, Gentle, Quiet",23 - 29,53 - 61,10 - 14,Pointing and trailing,https://cdn2.thedogapi.com/images/r1o0jx9Em.jpg
+163,Weimaraner,"Steady, Aloof, Stubborn, Energetic, Alert, Intelligent, Powerful, Fast",25 - 41,58 - 69,12 - 15,Large game trailing and versatile gundog,https://cdn2.thedogapi.com/images/SyU12l9V7.jpg
+164,Welsh Springer Spaniel,"Stubborn, Friendly, Affectionate, Loyal, Playful, Active",16 - 25,43 - 48,12 - 15,Flushing and retrieving birds,https://cdn2.thedogapi.com/images/BJ1gnx5Vm.jpg
+165,West Highland White Terrier,"Hardy, Friendly, Alert, Independent, Gay, Active, Courageous",7 - 10,25 - 28,15 - 20,"Fox, badger, vermin hunting",https://cdn2.thedogapi.com/images/Bkdx2g5Em.jpg
+166,Whippet,"Friendly, Affectionate, Lively, Gentle, Intelligent, Quiet",11 - 16,46 - 56,12 - 15,"Coursing, racing",https://cdn2.thedogapi.com/images/Hyv-ne94m.jpg
+167,White Shepherd,"Self-confidence, Aloof, Fearless, Alert, Companionable, Eager",27 - 39,56 - 64,12 – 14,,https://cdn2.thedogapi.com/images/r14M3e9E7.jpg
+168,Wire Fox Terrier,"Fearless, Friendly, Bold, Keen, Alert, Quick",7 - 9,33 - 41,13 – 14,"Vermin hunting, fox bolting",https://cdn2.thedogapi.com/images/SJ6f2g9EQ.jpg
+169,Wirehaired Pointing Griffon,"Loyal, Gentle, Vigilant, Trainable, Proud",20 - 32,51 - 61,12 - 14,"Gundog, ""swamp-tromping"", Flushing, pointing, and retrieving water fowl & game birds",https://cdn2.thedogapi.com/images/Bkam2l9Vm.jpg
+170,Wirehaired Vizsla,,20 - 29,55 - 64,12 - 14,,https://cdn2.thedogapi.com/images/r1I4hl5Em.jpg
+171,Xoloitzcuintli,"Cheerful, Alert, Companionable, Intelligent, Protective, Calm",4 - 14,25 - 58,12 - 14,,https://cdn2.thedogapi.com/images/HkNS3gqEm.jpg
+172,Yorkshire Terrier,"Bold, Independent, Confident, Intelligent, Courageous",2 - 3,20 - 23,12 - 16,Small vermin hunting,https://cdn2.thedogapi.com/images/B12BnxcVQ.jpg
