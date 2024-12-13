@@ -1,0 +1,1 @@
+web: gunicorn petdexapi.wsgi --log-file -
